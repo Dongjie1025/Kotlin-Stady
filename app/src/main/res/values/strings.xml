@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Kotlin-Stady</string>
+    <string name="main">MainActivity</string>
+</resources>
